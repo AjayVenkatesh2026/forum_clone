@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966399269071",
+    "project_id": "forum-clone-336ae",
+    "storage_bucket": "forum-clone-336ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966399269071:android:8dc42f1f0785665c1c7fba",
+        "android_client_info": {
+          "package_name": "com.ajayvenkateshgunturu.forum_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966399269071-kevm61tr0sl4nruhj3bbibc84p811tv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPl9yeBf4R05X3Wo8eTX6SEmEITO5O0-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966399269071-kevm61tr0sl4nruhj3bbibc84p811tv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
