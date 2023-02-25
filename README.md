@@ -1,16 +1,16 @@
-# forum_clone
+# Forum Clone
 
-A new Flutter project.
+## About Project:
 
-## Getting Started
+This is mini project done after completing a [Flutter Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) while I was interning at [**Riktam Technologies**](https://www.riktamtech.com/). This project has basic functionalites of a forum with basic ui. 
 
-This project is a starting point for a Flutter application.
+You can watch the screen recording of the app [here](https://drive.google.com/file/d/1WMpbA4NhGrk2H0glucXpnTbWa5avbp9l/view?usp=share_link).
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- user can register / login.
+- user can post questions / answer a question.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Author:
+
+Ajay Venkatesh Gunturu
